@@ -9,9 +9,10 @@
 
 🎓 Computer Science Student at **Federal University of Ceará (UFC)**  
 🎓 Exchange Student at **Goethe University Frankfurt**  
-💼 Currently working as **Junior Data Scientist @ Superdash**  
-💡 Former **Java Software Engineer @ SAP Labs Brasil**  
-🏆 President of **SdDUFC** (UFC Debate Society)
+💼 Currently working as **Backend Developer @ Zup**  
+💡 ex-intern **Java Software Engineer @ SAP Labs Brasil**  
+💡 ex-Junior **Data Scientist @ Superdash**  
+🏆 ex-President of **SdDUFC** (UFC Debate Society)
 
 Passionate about solving complex problems through data and technology. When I'm not coding, you can find me debating or studying computational theory.
 
