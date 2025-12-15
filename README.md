@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200px" align="left">
+
 
 # 👋 Hi, I am Vitor!
 
@@ -67,8 +67,8 @@ Backend Developer passionate about building scalable distributed systems and exp
 
 
 <div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/vitordealbs/count.svg)
+
+
   
   **"Complexity is just poorly organized simplicity."**
   
